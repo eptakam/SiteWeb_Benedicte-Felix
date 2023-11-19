@@ -1,0 +1,10 @@
+/* 
+    Rendre le iframe pour le paiement reponsive
+*/
+
+.responsive-iframe {
+    width: 100%;
+    padding-bottom: 56.25%; /* Ceci correspond à un rapport hauteur/largeur de 16:9 pour l'iframe. */
+    height: 0;
+  }
+  

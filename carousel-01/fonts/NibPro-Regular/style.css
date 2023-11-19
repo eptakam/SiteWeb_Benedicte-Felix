@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Nib Pro';
+    src: local('Nib Pro Regular'), local('Nib-Pro-Regular'),
+        url('NibPro-Regular.woff2') format('woff2'),
+        url('NibPro-Regular.woff') format('woff'),
+        url('NibPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
